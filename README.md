@@ -1,4 +1,4 @@
-# bot
+# bot4fb
 
 Задача: разработать чат-бота для Facebook Messenger. 
 
